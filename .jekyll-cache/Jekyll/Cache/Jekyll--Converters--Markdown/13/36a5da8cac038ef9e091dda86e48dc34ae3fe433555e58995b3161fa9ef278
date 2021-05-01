@@ -1,0 +1,29 @@
+I"T<div class="posts">
+
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;article class="post"&gt;
+
+  &lt;h1&gt;&lt;a href="/blog/post/2021/05/01/second-post-of-the-blog.html"&gt;Second blog post!&lt;/a&gt;&lt;/h1&gt;
+
+  &lt;div class="entry"&gt;
+    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vestibulum lorem sed risus ultricies tristique nulla aliquet enim. At varius vel pharetra vel turpis nunc eget lorem. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Sit amet consectetur adipiscing elit pellentesque habitant. Id velit ut tortor pretium viverra suspendisse potenti nullam ac. Mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor. Nunc congue nisi vitae suscipit tellus mauris a diam. Nulla pharetra diam sit amet nisl. Massa massa ultricies mi quis hendrerit dolor.&lt;/p&gt;
+
+  &lt;/div&gt;
+
+  &lt;a href="/blog/post/2021/05/01/second-post-of-the-blog.html" class="read-more"&gt;Read More&lt;/a&gt;
+&lt;/article&gt;
+  
+&lt;article class="post"&gt;
+
+  &lt;h1&gt;&lt;a href="/blog/post/2021/05/01/welcome-to-jekyll.html"&gt;First blog post!&lt;/a&gt;&lt;/h1&gt;
+
+  &lt;div class="entry"&gt;
+    &lt;p&gt;Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).&lt;/p&gt;
+
+  &lt;/div&gt;
+
+  &lt;a href="/blog/post/2021/05/01/welcome-to-jekyll.html" class="read-more"&gt;Read More&lt;/a&gt;
+&lt;/article&gt;
+</code></pre></div>  </div>
+
+</div>
+:ET

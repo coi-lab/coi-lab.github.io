@@ -1,0 +1,26 @@
+I"<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    
+      <li>
+        <span class="post-meta">May 1, 2021</span>
+
+        <h2>
+          <a class="post-link" href="/blog/post/2021/05/01/second-post-of-the-blog.html">Second blog post!</a>
+        </h2>
+      </li>
+    
+      <li>
+        <span class="post-meta">May 1, 2021</span>
+
+        <h2>
+          <a class="post-link" href="/blog/post/2021/05/01/welcome-to-jekyll.html">First blog post!</a>
+        </h2>
+      </li>
+    
+  </ul>
+
+</div>
+:ET

@@ -1,0 +1,17 @@
+I"o<div class="posts">
+
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;article class="post"&gt;
+
+  &lt;h1&gt;&lt;a href="/blog/post/2021/05/01/welcome-to-jekyll.html"&gt;First blog post!&lt;/a&gt;&lt;/h1&gt;
+
+  &lt;div class="entry"&gt;
+    &lt;p&gt;Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).&lt;/p&gt;
+
+  &lt;/div&gt;
+
+  &lt;a href="/blog/post/2021/05/01/welcome-to-jekyll.html" class="read-more"&gt;Read More&lt;/a&gt;
+&lt;/article&gt;
+</code></pre></div>  </div>
+
+</div>
+:ET
